@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+
+body {
+    font-family: 'Comic Neue', 'Comic Sans MS', 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+button {
+    background-color: aliceblue;
+    color: black;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+
+.projectile {
+    font-size: 80px;
+    font-weight: 700;
+}
